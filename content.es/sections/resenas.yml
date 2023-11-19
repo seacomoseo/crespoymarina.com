@@ -1,0 +1,73 @@
+title: Reseñas
+subtitle: ¿Qué dicen nuestros alumnos?
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+    buttons:
+    - link: https://g.page/r/Cc7aV8YUDYYPEBM/review
+      ofuscate: true
+      label: Más Reseñas
+  items:
+  - title: Inma R.
+    description: |
+      ¡Como bailarines excepcionales pero como profesores son únicos!
+
+      Su forma de enseñar te hace querer saber bailar cada vez más.
+
+      Las clases son muy dinámicas, prácticas, divertidas y personalizadas, atendiendo a cualquier duda que te pueda surgir.
+
+      He mejorado muchísimo gracias a ellos. ¡Y en los sociales me siento mucho más segura!
+
+      ¡100% recomendados!
+  - title: Samuel S.
+    description: |
+      Amplio conocimiento y base, no solo a nivel de movmientos, si no también a nivel teórico.
+
+      Gran facilidad para transmitir las enseñanzas, hilando muy fino a nivel de técnica.
+
+      Preocupados por enseñar de manera correcta y delicada una forma correcta de bailar.
+
+      Además son simpáticos y graciosos, ¡que nunca sobra!
+  - title: María S.
+    description: |
+      Grandes profesionales, con multitud de conocimientos tanto en técnica, como en figuras, pasos libres, movimiento corporal, teoría musical, etc.
+
+      En mi opinión, grandes maestros que no dudan en compartir con su alumnado su conocimiento y amor por el baile, de una forma dinámica a la vez que rigurosa.
+
+      Lo que destacaría de sus clases es la organización de los conocimientos en bloques, lo que hace que el alumnado pueda seguir y entender mejor aquello trabajado en el aula, proporcionando un mejor seguimiento y progresión.
+
+      SIN DUDA RECOMIENDO SUS CLASES.
+  - title: Benji L.
+    description: |
+      Dos de los mejores profesores de la región de Murcia.
+
+      Tanto si quieres iniciarte como si quieres perfeccionar tu técnica, ¡con ellos lo conseguirás sin duda!
+  - title: Cristina S.
+    description: |
+      Grandes personas y profesores.
+
+      No se me ocurre nadie mejor que ellos para aprender realmente a bailar.
+  - title: Zepo S.
+    description: |
+      Increíbles profesionales, te transmiten en sus clases su motivación por el baile.
+
+      Mola mucho el rollo que tienen a la hora de dar formación.
+  - title: Loren S.
+    description: |
+      Grandes profesores y mejores personas.
+
+      Me flipa cómo transmiten su pasión por el mambo y las clases son divertidas.
+
+      ¡Recomendadísimos! 😁👍
+  - title: Nerea C.
+    description: |
+      Los mejores profesores para aprender a bailar salsa y bachata en Cartagena, tanto desde inicio como para niveles más avanzados.
+
+      ¡Las clases con ellos son geniales! 🕺🏻
+- type: columns
+  items:
+  - description: |
+      [btn icon-star Más reseñas](https://g.page/r/CQO0z-fbrStlEAg/review "noindex")

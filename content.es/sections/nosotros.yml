@@ -1,0 +1,32 @@
+title: Nosotros
+subtitle: ¿Quienes somos?
+size: md
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    title: null
+    uppercase: true
+    underline: true
+  items:
+  - order: 2
+    image: crespo-y-marina.png
+    more:
+      ratio: 3x4
+      contain: true
+  - order: 1
+    description: |
+      Pedro Crespo y Marina Borja, una pareja de bailarines de salsa y bachata que han decidido empezar un nuevo proyecto juntos.
+
+      Como casi todos los que empiezan a bailar salsa y bachata, nosotros también comenzamos por pura diversión hasta que a día de hoy este mundo se ha convertido en nuestra vida.
+
+      Un proyecto lleno de objetivos y metas pero sobretodo de mucho esfuerzo que se refleja cada día en nuestro trabajo.
+
+      [btn-font-alt icon-instagram @crespoymarina](https://www.instagram.com/crespoymarina/)
+      <!--
+      [btn icon-plus Más](#nosotros-mas)
+      -->
+    more:
+      align: left
+      align_xl: right

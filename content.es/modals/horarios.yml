@@ -1,0 +1,15 @@
+title: Horarios
+subtitle: Clases Regulares
+rows:
+- type: columns
+  design:
+    num: 2
+    uppercase: true
+    button: hide
+  items:
+  - title: Murcia
+    link: clases-murcia-mambo-legacy-2023-2024.png
+    image: clases-murcia-mambo-legacy-2023-2024.png
+  - title: Cartagena
+    link: clases-cartagena-mambo-legacy-2023-2024.png
+    image: clases-cartagena-mambo-legacy-2023-2024.png

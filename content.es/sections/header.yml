@@ -1,0 +1,21 @@
+anchor: Clases de Salsa y Bachata en Murcia y Cartagena
+bg: crespo-y-marina-bailando-mambo-legacy.mp4#poster=fondo.jpg
+size: sm
+more:
+  full_screen: true
+  opacity: 30
+  parallax: true
+rows:
+- type: columns
+  design:
+    num: 2
+    ratio: 3x4
+    contain: true
+  items:
+  - subtitle: by Crespo y Marina
+    image: logo-alt.svg
+    description: |
+      [btn icon-plus Más](#principal)
+  - image: mambo-legacy-crespo-y-marina.png
+    more:
+      ratio: 9x16

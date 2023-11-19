@@ -1,0 +1,44 @@
+title: Eventos
+subtitle: Próximos
+rows:
+- type: columns
+  design:
+    num: 4
+    card: true
+    button: hide
+    ratio: 3x4
+    contain: true
+    slider: true
+  items:
+  - title: The Dream World Congress
+    link: https://www.enterticket.es/eventos/dream-world-congress-2022-seiren-569153?rrpp=PECG1
+    image: 2023-09-22-the-dream-world-congress.jpg
+    description: |
+      icon-calendar 2023/09/22
+  - title: YDance Festival
+    link: https://lasalsadelbaile.com/ydancefestival2023?ref=crespoymarina
+    image: 2023-10-06-ydance-festival.jpg
+    description: |
+      icon-calendar 2023/10/06
+  - title: Shine Mambo
+    link: https://www.shinemambo.com/shop/
+    image: 2023-11-24-shine-mambo.jpg
+    description: |
+      Código: **crespoymarina**
+
+      icon-calendar 2023/11/24
+  - title: MF Congress
+    link: https://www.enterticket.es/eventos/mf-congress-2024-740241?rrpp=PECG1
+    image: 2024-02-02-mf-congress.jpg
+    description: |
+      icon-calendar 2024/02/02
+  - title: Escapate y Baila Granada
+    link: https://lasalsadelbaile.com/eybgranada2024?ref=Crespoymarina
+    image: 2024-02-23-escapate-y-baila-granada.jpg
+    description: |
+      icon-calendar 2024/02/23
+  - title: Pirate Fest
+    description: |-
+      icon-calendar 2024/06/20
+    link: https://lasalsadelbaile.com/piratefestsanjavier2024?ref=crespoymarina
+    image: 2024-06-20-pirate-fest.jpg

@@ -1,0 +1,23 @@
+title: Características
+subtitle: ¿En qué destacamos?
+rows:
+- type: columns
+  design:
+    num: 3
+    underline: true
+  items:
+  - title: Metodología
+    subtitle: ¡Para todos los niveles!
+    icon: shoe-prints
+    description: |
+      Hemos creado nuestro propio sistema de enseñanza que nos permite dar la mejor solución a cualquiera de tus necesidades, tanto si no has bailado nunca hasta si eres un profesor que quiere ampliar sus conocimientos
+  - title: Formación Actualizada
+    subtitle: ¡Seguimos siendo alumnos!
+    icon: graduation-cap
+    description: |
+      Actualmente seguimos recibiendo clase de los mejores profesionales del sector para que siempre puedas estar al corriente de las nuevas tendencias que surgen cada dia
+  - title: Pasión
+    subtitle: ¡Nos encanta lo que hacemos!
+    icon: heart
+    description: |
+      El baile forma una parte esencial de nuestras vidas, pues es a lo que más tiempo le dedicamos y con lo que más disfrutamos con mucha diferencia... ¡Y nos flipa transmitirlo!

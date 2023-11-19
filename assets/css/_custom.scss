@@ -1,0 +1,24 @@
+// Header
+
+#body-inicio #header {
+  .bg-figure-image {
+    object-position: 50% 30%;
+  }
+}
+
+// Header Animations
+
+#body-inicio #header {
+  @mixin show-up($delay) {
+    animation: show-up .5s (.5 + .25s * $delay) both;
+  }
+  .subtitle {             @include show-up(5); }
+  .description .buttons { @include show-up(6); }
+  .column--item-2 {       @include show-up(7); }
+}
+
+// Sections
+
+.bg-main {
+  --link: var(--invert);
+}

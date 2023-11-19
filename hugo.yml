@@ -1,0 +1,32 @@
+baseURL: https://crespoymarina.com
+Paginate: 24
+buildFuture: true
+theme: [sansoul]
+params:
+  git_url: https://gitlab.com/crespoymarina/crespoymarina.com
+  netlify_name: crespoymarina
+  netlify_id: e51e3a56-9d3d-45d2-a329-4e70e740bb80
+  drive_link: https://drive.google.com/file/d/11GX9vgNXQNbQSL6gLgJWMNRS1F5likiG
+  drive_mails: pedrocrespomambo@gmail.com, marinaborjasyb@gmail.com, crespoymarina@gmail.com
+defaultContentLanguage: es
+disableLanguages: [en]
+languages:
+  es:
+    paginatePath: pagina
+    permalinks:
+      page:
+        pages: :slug
+        blog: :slug
+        events: evento/:year/:month/:day/:slug
+        products: producto/:slug
+        categories: categoria/:slug
+        tags: etiqueta/:slug
+        authors: autor/:slug
+      section:
+        pages: paginas
+        blog: blog
+        events: eventos
+        products: productos
+        categories: categorias
+        tags: etiquetas
+        authors: autores

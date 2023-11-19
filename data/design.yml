@@ -1,0 +1,71 @@
+icons:
+  type: solid
+  emojis: ''
+  emojis_default: false
+fonts:
+  google: false
+  base:
+    family: Satoshi
+    weight: 400
+    strong: 700
+    italic: false
+    line-height: 1.25
+  cursive:
+    family: Satoshi
+    weight: 700
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  title:
+    family: Gilroy
+    weight: 800
+    strong: 0
+    italic: false
+    line-height: 1.25
+    top: 0
+  blockquote_cursive: false
+colors:
+  main:
+    color: '#f4bc22'
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  alt:
+    color: '#ccc'
+    light: '#fff'
+    dark: '#fff'
+    contrast: all
+  link:
+    color: '#fff'
+    light: '#fff'
+    dark: '#fff'
+    contrast: text
+  base:
+    white: '#fff'
+    light: '#eee'
+    grey: '#767676'
+    dark: '#222220'
+    black: '#000'
+rounded:
+  radius: 0
+  chamfer: true
+buttons:
+  sides_round: true
+  icon_circle: true
+  deep: false
+  outline: true
+  font_base: false
+shadow:
+  left: 0.1
+  top: 0.1
+  blur: 0.1
+  color: black
+  opacity: 0.25
+lightbox_overlay:
+  opacity: 0.8
+  color: black
+performance:
+  showup: false
+  parallax: false
+  srcsetx2: true

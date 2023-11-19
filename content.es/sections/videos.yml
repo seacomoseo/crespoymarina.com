@@ -1,0 +1,33 @@
+title: Vídeos
+subtitle: Valen más que mil palabras
+rows:
+
+- type: columns
+  design:
+    num: 4
+    card: true
+    align: left
+    button: hide
+    ratio: 3x4
+    icon: instagram
+    icon_type: side
+    slider: true
+  items:
+  - title: Taller
+    link: https://www.instagram.com/p/CuzE9Owq5yG/
+    image: crespo-y-marina-bailando-en-un-taller.jpg
+  - title: Social
+    link: https://www.instagram.com/p/Cr06TI0qQ4W/
+    image: crespo-y-marina-bailando-social.jpg
+  - title: Clase
+    link: https://www.instagram.com/p/Cnjvsy_v2Gr/
+    image: crespo-y-marina-bailando-en-una-clase.jpg
+  - title: Congreso
+    link: https://www.instagram.com/p/CmrvADSJHM1/
+    image: crespo-y-marina-bailando-en-un-congreso.jpg
+  - title: Pasos Libres
+    link: https://www.instagram.com/p/CkN8miLq8hp/
+    image: crespo-y-marina-bailando-pasos-libres.jpg
+  - title: Más Pasos
+    link: https://www.instagram.com/p/Cj20u-dKH1N/
+    image: crespo-y-marina-bailando-mas-pasos-libres.jpg

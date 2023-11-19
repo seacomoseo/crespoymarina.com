@@ -1,0 +1,34 @@
+id: nosotros-mas
+title: Más Sobre Nosotros
+subtitle: ¿Quieres más?
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    uppercase: false
+    underline: true
+    ratio: 1x1
+    border: main
+  items:
+  - order: 2
+    image: marina-borja.jpg
+  - title: Marina Borja
+    order: 1
+    description: |
+      Texto descriptivo de Marina.
+
+      [btn-font-alt icon-instagram @marinaborjam](https://www.instagram.com/marinaborjam/)
+    more:
+      align: left
+      align_xl: right
+  - order: 3
+    image: pedro-crespo.jpg
+  - title: Pedro Crespo
+    order: 4
+    description: |
+      Texto descriptivo de Crespo.
+
+      [btn-font-alt icon-instagram @pdro.crespo](https://www.instagram.com/pdro.crespo/)
+    more:
+      align: left

@@ -1,0 +1,36 @@
+title: Servicios
+subtitle: Mambo, Salsa y Bachata
+size: md
+rows:
+- type: columns
+  design:
+    num: 2
+    underline: true
+    color: white
+    ratio: 16x9
+    inset: true
+  items:
+  - title: Clases Regulares
+    link: '#horarios'
+    label: Horarios
+    image: clases-regulares-de-salsa-y-bachata.jpg
+    description: |
+      Impartimos clases regulares de mambo, salsa y bachata para todos los niveles de lunes a jueves en Murcia y Cartagena
+  - title: Clases Particulares
+    link: '#contacto'
+    label: Contacto
+    image: fondo.jpg
+    description: |
+      Tanto si no te viene bien ninguno de los horarios como si quieres una atención personalizada a tus necesidades también ofrecemos clases individuales o para grupos reducidos
+  - title: Talleres
+    link: '#contacto'
+    label: Contacto
+    image: talleres-de-salsa-y-bachata.jpg
+    description: |
+      Puntualmente damos talleres de mambo, salsa y bachata en congresos, academias y salsotecas y otros locales
+  - title: Shows o Espectáculos
+    link: '#shows'
+    label: Shows
+    image: https://i3.ytimg.com/vi_webp/ITNtoqTFViU/sddefault.webp
+    description: |
+      Nos encanta proyectar nuestra pasión por el mambo y en el escenario lo damos todo, ya sea en congresos u otros eventos
