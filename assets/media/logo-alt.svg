@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 901 1440">
 <style>
-  @keyframes show-up {
+  @keyframes show-from {
     0% {
       transform: translateY(3rem);
       opacity: 0;
@@ -27,10 +27,10 @@
     animation: show-down .5s .5s both;
   }
   #logo-icon-bottom {
-    animation: show-up .5s .75s both;
+    animation: show-from .5s .75s both;
   }
   #logo-legacy {
-    animation: show-up .5s 1s both;
+    animation: show-from .5s 1s both;
   }
 </style>
 <g fill="#f4bc20" transform="matrix(1.900618 0 0 -1.900618 -575.833491 1745.43863)">

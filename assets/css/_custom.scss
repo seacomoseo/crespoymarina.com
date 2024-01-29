@@ -9,12 +9,12 @@
 // Header Animations
 
 #body-inicio #header {
-  @mixin show-up($delay) {
-    animation: show-up .5s (.5 + .25s * $delay) both;
+  @mixin show-from($delay) {
+    animation: show-from .5s (.5 + .25s * $delay) both;
   }
-  .subtitle {             @include show-up(5); }
-  .description .buttons { @include show-up(6); }
-  .column--item-2 {       @include show-up(7); }
+  .subtitle {             @include show-from(5); }
+  .description .buttons { @include show-from(6); }
+  .column--item-2 {       @include show-from(7); }
 }
 
 // Sections
