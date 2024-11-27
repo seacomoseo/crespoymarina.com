@@ -6,10 +6,6 @@ rows:
     num: 3
     color: white
     slider: true
-    buttons:
-    - link: https://g.page/r/Cc7aV8YUDYYPEBM/review
-      ofuscate: true
-      label: Más Reseñas
   items:
   - title: Inma R.
     description: |
@@ -70,4 +66,4 @@ rows:
 - type: columns
   items:
   - description: |
-      [btn icon-star Más reseñas](https://g.page/r/CQO0z-fbrStlEAg/review "noindex")
+      [btn icon-star Más reseñas](https://g.page/r/Cc7aV8YUDYYPEBM/review "noindex")
